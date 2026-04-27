@@ -312,34 +312,6 @@ A: Pastikan file `LMS_API.postman_collection.json` ada di folder root
 
 ---
 
-## 📚 Buat Belajar Lebih Dalam
-
-Dokumentasi detail tersedia di file-file ini (optional):
-
-- `QUICK_START.md` - Quick reference commands
-- `RUNNING_GUIDE.md` - Panduan detail menjalankan
-- `SUBMISSION_GUIDE.md` - Panduan submission lengkap
-
----
-
-## ✨ Checklist Sebelum Submit
-
-- [ ] Docker compose `up -d` berjalan lancar
-- [ ] Bisa buka http://localhost:8000/api/docs
-- [ ] Bisa register user baru
-- [ ] Bisa login dan dapat token
-- [ ] Protected endpoint butuh token (test dengan cURL)
-- [ ] Instructor bisa create course, Student tidak bisa
-- [ ] Admin bisa delete course
-- [ ] Postman collection bisa import dan jalankan
-- [ ] Code sudah di-push ke GitHub
-
----
-
-## 🎉 Selamat!
-
-Project Anda sudah siap! Semua 15 endpoint bekerja, security OK, dokumentasi lengkap.
-
 **Next steps:**
 
 1. Run: `docker-compose up -d`
