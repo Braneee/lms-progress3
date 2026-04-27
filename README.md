@@ -287,13 +287,6 @@ git remote add origin https://github.com/USERNAME/lms-progress3.git
 git branch -M main
 git push -u origin main
 ```
-
-### Step 4: Submit ke KULINO
-
-- Copy GitHub URL
-- Paste di assignment form KULINO
-- Done!
-
 ---
 
 ## 🆘 Troubleshooting (Kalau Ada Masalah)
