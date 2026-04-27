@@ -1,35 +1,6 @@
-# 🎓 Simple LMS - REST API dengan Django Ninja
+# Progress 3: Simple LMS - REST API dengan Django Ninja
 
 > Sebuah sistem Learning Management System (LMS) yang sederhana namun lengkap, dibangun dengan Django Ninja, JWT authentication, dan role-based authorization. Cocok sebagai pembelajaran atau starting point untuk project yang lebih besar.
-
----
-
-## 📌 Apa itu Project Ini?
-
-Project ini adalah **REST API** untuk sistem pembelajaran online. Fiturnya antara lain:
-
-- 📚 **Manajemen Kursus** - Instructor bisa membuat dan mengelola kursus
-- 🎓 **Pendaftaran Siswa** - Siswa bisa mendaftar ke kursus yang mereka inginkan
-- 👤 **Manajemen Pengguna** - System login dengan berbagai role (student, instructor, admin)
-- 🔐 **Keamanan** - Menggunakan JWT token untuk keamanan API
-- 📖 **Dokumentasi Otomatis** - Swagger UI untuk testing endpoint
-
-**Singkat cerita: Ini adalah backend API untuk aplikasi learning. Anda bisa create users, courses, dan track siapa sudah belajar apa.**
-
----
-
-## ✅ Semua Kriteria Penilaian Sudah Terpenuhi
-
-| Apa?                          | Nilai    | Status                          |
-| ----------------------------- | -------- | ------------------------------- |
-| Ada berapa endpoint?          | 30%      | ✅ 15 endpoint implemented      |
-| Login/authentication bekerja? | 20%      | ✅ JWT working                  |
-| Hak akses user berbeda-beda?  | 15%      | ✅ Student ≠ Instructor ≠ Admin |
-| Validasi input bagus?         | 15%      | ✅ Pydantic validation          |
-| Dokumentasi API ada?          | 10%      | ✅ Swagger UI included          |
-| Bisa test di Postman?         | 10%      | ✅ Collection included          |
-| **TOTAL**                     | **100%** | ✅ **SEMUA LENGKAP**            |
-
 ---
 
 ## 🚀 Cara Menjalankan Project
