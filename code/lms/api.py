@@ -18,7 +18,7 @@ api = NinjaAPI(
     title="Simple LMS API",
     version="1.0.0",
     description="""
-## 📚 Simple LMS REST API
+## Simple LMS REST API
 
 API untuk sistem Learning Management System sederhana.
 
