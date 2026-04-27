@@ -261,34 +261,6 @@ Sudah diperhatikan:
 
 ---
 
-## 📤 Mau Submit ke GitHub?
-
-### Step 1: Init Git
-
-```bash
-cd d:\PSS\lms-progress3
-git init
-git config user.name "Nama Anda"
-git config user.email "email@mail.com"
-```
-
-### Step 2: Add & Commit
-
-```bash
-git add .
-git commit -m "LMS Project - Complete REST API"
-```
-
-### Step 3: Push ke GitHub
-
-```bash
-# Buat repository di GitHub dulu
-git remote add origin https://github.com/USERNAME/lms-progress3.git
-git branch -M main
-git push -u origin main
-```
----
-
 ## 🆘 Troubleshooting (Kalau Ada Masalah)
 
 **Q: Docker tidak jalan**
